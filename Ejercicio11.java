@@ -1,5 +1,7 @@
 package javaapplication1;
-
+/**
+ * @author Erick Abel Casamin Ramirez
+ */
 import java.util.Scanner;
 
 public class Ejercicio11 {
